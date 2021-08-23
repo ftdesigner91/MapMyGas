@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381838828931",
+    "project_id": "mapmygas",
+    "storage_bucket": "mapmygas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381838828931:android:cadb5dcc03e684681dc2b6",
+        "android_client_info": {
+          "package_name": "com.gmail.mapmygas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381838828931-a5v84qhtpdhuuaeco6jg6jk1cj0q2n5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArdSpwjGUJF6YPv_wY6OlD4MXeM5ZipxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381838828931-a5v84qhtpdhuuaeco6jg6jk1cj0q2n5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
